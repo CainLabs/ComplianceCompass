@@ -1,4 +1,4 @@
-# Compliance Compass v2.2
+# Compliance Compass v2.3
 
 **By CainCyberLabs**
 
@@ -89,5 +89,6 @@ Double-click `CCSPCI_Standalone.exe`.
 ## ⚖️ Disclaimer
 
 *This software is provided "as is" without warranty of any kind. While it assists with compliance auditing, passing these checks does not guarantee full legal compliance with PCI DSS, CMMC, or HIPAA regulations. Always consult a qualified QSA or compliance officer for official certification.*
+
 
 **Copyright © 2025 CainCyberLabs**
